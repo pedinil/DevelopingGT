@@ -909,9 +909,6 @@ a.accordion-toggle  i{
 /*************************
 ********* About Us Page CSS ******
 **************************/
-.center span {
-	color:#d06562;
-}
 
 .skill_text {
   display: block;
@@ -1216,7 +1213,16 @@ ul.social_icons li  a i{
   border-color:#fff transparent transparent transparent;
   z-index: 1;
 }
+.blueSpan{
+  color:#286aa5;
 
+}
+
+
+.redSpan{
+  color:#db3615;
+
+}
 
 .team .single-profile-top:after {
   left: 25px;
